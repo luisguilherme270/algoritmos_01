@@ -1,5 +1,6 @@
 #include <stdio.h>
-int estrutura(int escolha)
+int 
+estrutura(int escolha)
 {
 switch(escolha)
   {
