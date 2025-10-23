@@ -1,7 +1,7 @@
 #include <stdio.h>
 int estrutura(int escolha)
 {
-  switch(escolha)
+switch(escolha)
   {
   case 1:
     {
